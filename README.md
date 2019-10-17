@@ -27,5 +27,5 @@ Please note, Kirana has Edge Servers that are not compute intensive.
   * Name of Product
   * Quantity
   * Cost of product
-  * Final Cost of Product(=Quantity*Cost of Product)
+  * Final Cost of Product = (Quantity*Cost of Product)
   * Highlight ‘Final Cost’ by performing addition on the final cost of all the products bought
