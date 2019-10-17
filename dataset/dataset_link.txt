@@ -1,0 +1,1 @@
+AWS S3 Bucket Link: https://cf-template-inframind2.s3.amazonaws.com/model.rar
