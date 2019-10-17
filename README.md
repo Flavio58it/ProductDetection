@@ -29,3 +29,7 @@ Please note, Kirana has Edge Servers that are not compute intensive.
   * Cost of product
   * Final Cost of Product = (Quantity*Cost of Product)
   * Highlight ‘Final Cost’ by performing addition on the final cost of all the products bought
+
+### My Raspberry Pi 3B+ Working Model
+
+![rp-1](https://github.com/kmranrg/ProductDetection/blob/master/static/img/raspberry_pi_model_1.jpg)
