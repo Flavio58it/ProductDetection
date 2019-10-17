@@ -1,5 +1,7 @@
 # Edge Computing
 
+![edge](https://github.com/kmranrg/ProductDetection/blob/master/static/img/edge.png)
+
 ### Requirement
 Kirana is a retail store looking for more digitalized way of expanding their business. They want to use a more systematic way of checkout system and reduce their human work force at billing counters.
 Help Kirana devise a system that allows automatic detection of product using camera. The detection of product must be wrt the size of the product, type of product and automatically take the cost of product to make a bill of materials at checkout. This has to be done in real-time without sending the data to cloud for processing as some of these stores can be in remote areas with intermittent connectivity and Kirana do not want customers to wait due to latency issues for connectivity.
